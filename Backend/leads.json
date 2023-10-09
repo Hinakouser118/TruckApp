@@ -1,0 +1,31 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "truckNo": "ABC123",
+      "truckName": "Truck A",
+      "driverName": "Driver A",
+      "phoneNumber": "1234567890",
+      "type": "Type A",
+      "description": "Description A"
+    },
+    {
+      "id": 2,
+      "truckNo": "DEF456",
+      "truckName": "Truck B",
+      "driverName": "Driver B",
+      "phoneNumber": "9876543210",
+      "type": "Type B",
+      "description": "Description B"
+    },
+    {
+      "truckNo": "ABC1234",
+      "truckName": "12345",
+      "driverName": "Ghouse",
+      "phoneNumber": "7899031699",
+      "type": "goods",
+      "description": "jjkj;alksjLKJF",
+      "id": 3
+    }
+  ]
+}
